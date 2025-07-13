@@ -1,0 +1,11 @@
+{
+    "SecretId": "",
+    "SecretKey": "",
+    "NeededCerts": [
+        {
+            "Domains": ["example.com", "www.example.com"],
+            "CertSavePath": "/etc/nginx/ssl/example.com.crt",
+            "KeySavePath": "/etc/nginx/ssl/example.com.key"
+        }
+    ]
+}
